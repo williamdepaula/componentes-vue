@@ -1,24 +1,20 @@
-# vue-components
+# Componentes Vue
+Estudos de criação de componentes pequenos e simples utilizando VueJS
 
-## Project setup
-```
+## Instalação
+```sh
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+## Rodando o projeto
+```sh
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Lista de Componentes
+* [Input de busca](src/components/search-form/)
+![](images/search-form.gif)
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Histórico de lançamentos
+* 0.0.1 - Search form
